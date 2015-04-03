@@ -3,7 +3,7 @@
 Summary:	Library for parsing configuration files
 Name:		libconfuse
 Version:	2.7
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries
 Source0:	http://savannah.nongnu.org/download/confuse/%{pname}-%{version}.tar.gz
